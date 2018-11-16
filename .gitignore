@@ -1,0 +1,12 @@
+# Created by .ignore support plugin (hsz.mobi)
+.idea
+
+
+#忽略runtime中的log日志
+webroot/protected/runtime/*
+
+
+#忽略cache和template_c文件夹里的所有文件
+webroot/protected/views/smarty/cache/*
+
+webroot/protected/views/smarty/template_c/*
